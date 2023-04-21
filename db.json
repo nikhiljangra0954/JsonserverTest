@@ -1,18 +1,19 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        }
-    ],
-    "users": [
-        {
-          "id": 1,
-          "username": "nik",
-          "email": "nik@gmail.com",
-          "password": "nik"
-        }
-      ]
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "nik",
+      "email": "nik@gmail.com",
+      "password": "nik"
+    }
+  ]
 }
