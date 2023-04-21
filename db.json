@@ -5,7 +5,8 @@
       "name": "Cherry",
       "age": 2,
       "place": "Visakhapatnam",
-      "gender": "Male"
+      "gender": "Male",
+      "image" : "https://images.dog.ceo/breeds/cockapoo/Guri3.jpg"
     }
   ],
   "users": [
