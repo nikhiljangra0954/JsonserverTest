@@ -15,5 +15,11 @@
       "email": "nik@gmail.com",
       "password": "nik"
     }
+  ],
+  "admin":[
+    {
+        "email" : "admin@gmail.com",
+        "password" : "admin"
+    }
   ]
 }
